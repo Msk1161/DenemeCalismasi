@@ -5,5 +5,22 @@ public class Mustafa {
         System.out.println("Ilk adim");
         System.out.println("Ikinci adim");
 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
     }
 }
