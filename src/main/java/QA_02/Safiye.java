@@ -5,5 +5,16 @@ public class Safiye {
         System.out.println("umutsuz vakayim");
         System.out.println("ikinci deneme");
         System.out.println("sanirim basardim :)");
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
     }
 }
